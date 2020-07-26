@@ -7,15 +7,13 @@
 
 <p align="center">
   <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/ldebatin/nlw-01?color=34cb79">
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ldebatin/nlw-01?color=34cb79">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ldebatin/nlw-01?color=34cb79">
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/ldebatin/nlw-01?color=34cb79">
   <img alt="Made by Stefano" src="https://img.shields.io/badge/made%20by-ldebatin-%20?color=34cb79">
   <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/ldebatin/nlw-01?color=34cb79">
   <img alt="GitHub license" src="https://img.shields.io/github/license/ldebatin/nlw-01?color=34cb79">
-    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=34cb79">
 </p> 
-
-<br>
+<br />
 
 ### Tecnologias
 
@@ -28,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Projeto
 
-Projeto desenvolvido durante a primeria [Next Level Week](https://nextlevelweek.com/) 
+Projeto desenvolvido durante a primeria [Next Level Week](https://nextlevelweek.com/). <br />
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
 ### Layout
